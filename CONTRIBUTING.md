@@ -53,6 +53,12 @@
 - Bio: I am a Cyber Security Student studying in Nirma University.
 - GitHub: [Jenil Gajjar](https://github.com/JenilGajjar20)
 
+
+#### Name: [Mukul Rana](https://github.com/mukulpythondev)
+- Place: Ghaziabad,UP ,India
+- Bio: Full Stack  Developer | B.Tech CSE 1 yr student
+- GitHub: [Mukul Rana](https://github.com/mukulpythondev)
+=======
 #### Name: [Bhumika Bachchan](https://github.com/insane-22)
 - Place: Roorkee, Uttarakhand, India
 - Bio: College Student | Full Stack Developer
@@ -98,3 +104,4 @@
 - Place: Mumbai, Maharashtra, India
 - Bio: Computer Engineering Student | Web Developer
 - Github: [Sarvesh Yadav] (https://github.com/sarveshpyadav)
+
