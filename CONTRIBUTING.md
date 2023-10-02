@@ -149,7 +149,6 @@
 - Bio: Btech CSE | React Developer
 - GitHub: [wAsI7](https://github.com/shagunZ)
 
-
 #### Name: [Aditya Lad](https://github.com/Adityalad-25)
 
 - Place: Pune,Maharashtra, India
@@ -169,6 +168,13 @@
 - GitHub: [ketan-sonar](https://github.com/ketan-sonar)
 
 #### Name: [Logeshwaran](https://github.com/Logesh-waran2003)
+
 - Place: Chennai, Tamilnadu, India
 - Bio: CS Undergrad | Full stack Developer
 - GitHub: [Logesh-waran2003](https://github.com/Logesh-waran2003)
+
+#### Name: [Advaita Vedanta](https://github.com/Advaita151)
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: Computer Engineering student | Full stack developer
+- Github: [Advaita](https://github.com/Advaita151)
