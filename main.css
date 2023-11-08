@@ -1097,8 +1097,8 @@ form input {
   /* background: transparent; */
   padding: 0.6em;
   margin: 1em;
-  color: #ccc;
   border: 0;
+  border-radius:20px;
   outline: none;
   font-size: 16px;
 }
