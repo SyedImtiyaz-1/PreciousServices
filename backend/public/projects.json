@@ -527,8 +527,8 @@
     "image": "img/movielandLogo.jpg",
     "downloadLink": "https://drive.google.com/file/d/1AP0lvJYskOEeNJGJfF58URxgw3kfiigd/view?usp=sharing",
     "techstack": "ReactJs, TailwindCSS, MovieAPI",
-    "slide-img-1": "img/movielandLogo.jpg",
-    "slide-img-2": "img/movielandLogo.jpg"
+    "slide-img-1": "img/movie1.webp",
+    "slide-img-2": "img/movie2.webp"
   },
   {
     "courseId": "NewsWeb Website",
@@ -583,5 +583,14 @@
     "techstack": "HTML, CSS",
     "slide-img-1": "img/Monopoly_Game.png",
     "slide-img-2": "img/Monopoly_Game.png"
-  }
+  },
+  {
+    "courseId": "Music Visualizer",
+    "name": "Music Visualizer",
+    "image": "img/Music_Visualizer1.png",
+    "downloadLink": "https://drive.google.com/drive/folders/1DRJL_xjDf8JX2nJseMnxsxEBtgHhULrm?usp=sharing",
+    "techstack": "HTML, CSS, JavaScript",
+    "slide-img-1": "img/Music_Visualizer.png",
+    "slide-img-2": "img/Music_Visualizer1.png"
+  } 
 ]
