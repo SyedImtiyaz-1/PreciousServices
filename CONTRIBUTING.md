@@ -307,4 +307,4 @@
 
 - Place: Durgapur, West Bengal, India.
 - Bio: CSE Undergrad | Sophomore @KIIT, Bhubaneswar | Passionate MERN Stack Developer
-- GitHub: [Sambit Mondal](https://github.com/Sambit-Mondal)
+
